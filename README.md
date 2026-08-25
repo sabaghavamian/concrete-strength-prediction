@@ -80,6 +80,18 @@ The project also uses visual analysis to better understand model performance.
 
 ### Training Loss Curve
 
+![Training Loss Curve](figures/training_loss.png)
+
+### Actual vs. Predicted
+
+![Actual vs Predicted](figures/actual_vs_predicted.png)
+
+### Error Distribution
+
+![Error Distribution](figures/error_distribution.png)
+
+### Training Loss Curve
+
 Shows how the training loss changes during the 100 training epochs.
 
 ### Actual vs. Predicted
