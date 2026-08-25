@@ -45,12 +45,11 @@ Additional visualizations are used to analyze prediction accuracy and error dist
 
 ```text
 concrete-strength-prediction/
-├── data/
-├── src/
-├── figures/
-├── results/
-├── README.md
+├── Concrete_Data - Concrete_Data.csv
+├── main.py
 ├── requirements.txt
+├── README.md
+├── LICENSE
 └── .gitignore
 ```
 ## Dataset
