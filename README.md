@@ -53,6 +53,17 @@ concrete-strength-prediction/
 ├── requirements.txt
 └── .gitignore
 ```
+## Dataset
+
+The project uses a concrete compressive strength dataset containing eight input features related to concrete mixture composition and age. The target variable is concrete compressive strength.
+
+## How to Run
+
+1. Clone this repository.
+2. Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
 
 ## Author
 
